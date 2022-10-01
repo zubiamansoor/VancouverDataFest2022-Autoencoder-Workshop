@@ -7,7 +7,7 @@
 
 ![](https://github.com/zubiamansoor/VancouverDataFest2022-Autoencoder-Workshop/blob/main/logo.png)
 
-This repository contains materials and code for the advanced Python workshop on Autoencoders for Vancouver DataFest 2022. Click ![here](https://sites.google.com/view/datajam2022/workshops?authuser=0) for the link to the full list of workshops.
+This repository contains materials and code for the advanced Python workshop on Autoencoders for Vancouver DataFest 2022. Click [here](https://sites.google.com/view/datajam2022/workshops?authuser=0) for the link to the full list of workshops.
 
 Folder Name | Contents | Description | Link
 :-------------------------------- | :------------------------ | :-------------------- | :-------------------
